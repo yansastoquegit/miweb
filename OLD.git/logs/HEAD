@@ -1,0 +1,42 @@
+0000000000000000000000000000000000000000 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553100260 -0500	commit (initial): Commit inicial, agregando la estructura de arhivos y carpetas
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553100427 -0500	reset: moving to HEAD
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553100469 -0500	reset: moving to d01ba1b
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553100736 -0500	checkout: moving from master to d01ba1b
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 998a8715e2a301d925c21324eafc75ea5707d971 slan48 <email@email.com> 1553100933 -0500	revert: Revert "Commit inicial, agregando la estructura de arhivos y carpetas"
+998a8715e2a301d925c21324eafc75ea5707d971 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553100988 -0500	checkout: moving from 998a8715e2a301d925c21324eafc75ea5707d971 to Master
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553101078 -0500	reset: moving to HEAD
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553101093 -0500	reset: moving to HEAD
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553101094 -0500	reset: moving to HEAD
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 slan48 <email@email.com> 1553101238 -0500	commit: Rebuild index
+0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 slan48 <email@email.com> 1553101265 -0500	rebase -i (start): checkout HEAD
+0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 slan48 <email@email.com> 1553101265 -0500	rebase -i (finish): returning to refs/heads/Master
+0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 slan48 <email@email.com> 1553101291 -0500	rebase -i (start): checkout HEAD~1
+0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 slan48 <email@email.com> 1553101291 -0500	rebase -i (finish): returning to refs/heads/Master
+0f5e03fc5bc3bc20597e19a75c8a31ddd7164553 14d8d2cc46e1b997c3834820d0bc94bed9678e4e slan48 <email@email.com> 1553101479 -0500	rebase -i (start): checkout 14d8d2cc46e1b997c3834820d0bc94bed9678e4e
+14d8d2cc46e1b997c3834820d0bc94bed9678e4e d01ba1b4002759601fb5ceb024dbd03ba3a516b9 slan48 <email@email.com> 1553101479 -0500	rebase -i: fast-forward
+d01ba1b4002759601fb5ceb024dbd03ba3a516b9 74dbcee9241c2a02f28163d06a791b44f1078070 slan48 <email@email.com> 1553101479 -0500	rebase -i (squash): Commit inicial, agregando la estructura de arhivos y carpetas
+74dbcee9241c2a02f28163d06a791b44f1078070 74dbcee9241c2a02f28163d06a791b44f1078070 slan48 <email@email.com> 1553101479 -0500	rebase -i (finish): returning to refs/heads/Master
+74dbcee9241c2a02f28163d06a791b44f1078070 9cdd84e57a7b9746b5416f6c12338b78ddc8899d slan48 <email@email.com> 1553120833 -0500	commit: Construir estructura del encabezado
+9cdd84e57a7b9746b5416f6c12338b78ddc8899d 9f54a9ac1db9412419691b0cd591e4a9f7a139bd slan48 <email@email.com> 1553120853 -0500	commit: Agregar estilos generales
+9f54a9ac1db9412419691b0cd591e4a9f7a139bd 681a4ebe7a9081500a1f41792623f49480386a29 slan48 <slan_48@hotmail.com> 1553191476 -0500	commit: Terminar el encabezado
+681a4ebe7a9081500a1f41792623f49480386a29 5fe600c47f4e8f4707440aba223a540f40c621b8 slan48 <slan_48@hotmail.com> 1553197595 -0500	commit: Finalizar estructura de productos
+5fe600c47f4e8f4707440aba223a540f40c621b8 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553200681 -0500	commit: Finalizar seccion de productos
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294407 -0500	checkout: moving from Master to hola
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 0000000000000000000000000000000000000000 slan48 <slan_48@hotmail.com> 1553294433 -0500	Branch: renamed refs/heads/hola to refs/heads/master
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294433 -0500	Branch: renamed refs/heads/hola to refs/heads/master
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 0000000000000000000000000000000000000000 slan48 <slan_48@hotmail.com> 1553294457 -0500	Branch: renamed refs/heads/master to refs/heads/hola
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294457 -0500	Branch: renamed refs/heads/master to refs/heads/hola
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 0000000000000000000000000000000000000000 slan48 <slan_48@hotmail.com> 1553294465 -0500	Branch: renamed refs/heads/hola to refs/heads/Master
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294465 -0500	Branch: renamed refs/heads/hola to refs/heads/Master
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 0000000000000000000000000000000000000000 slan48 <slan_48@hotmail.com> 1553294491 -0500	Branch: renamed refs/heads/Master to refs/heads/hola
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294491 -0500	Branch: renamed refs/heads/Master to refs/heads/hola
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 0000000000000000000000000000000000000000 slan48 <slan_48@hotmail.com> 1553294498 -0500	Branch: renamed refs/heads/hola to refs/heads/master
+0000000000000000000000000000000000000000 91ad66f9c161e454edce58bcdce5ef37b80a11b7 slan48 <slan_48@hotmail.com> 1553294498 -0500	Branch: renamed refs/heads/hola to refs/heads/master
+91ad66f9c161e454edce58bcdce5ef37b80a11b7 62fd3724963c9ba4c0386c85989cf79da5119512 slan48 <slan_48@hotmail.com> 1553294985 -0500	commit: Solucionar error de overlay y modal
+62fd3724963c9ba4c0386c85989cf79da5119512 20bbd91490439d836d6b4ed7f1ac495ea787433d yansastoque <yasastoque@gmail.com> 1675191982 -0500	commit: Segundo commit commit
+20bbd91490439d836d6b4ed7f1ac495ea787433d caaced8358059a4239f6e5c52c9eb7b06eb95a97 yansastoque <yasastoque@gmail.com> 1675192107 -0500	commit: Eliminamos archivo de pruebas 1
+caaced8358059a4239f6e5c52c9eb7b06eb95a97 c031f383f2605d451e9be6fc2fd3c44a5cc6484a yansastoque <yasastoque@gmail.com> 1675275027 -0500	commit: Prueba2
+c031f383f2605d451e9be6fc2fd3c44a5cc6484a 0ba3c4f74501a59ec81d3384b7f2de286fbfa6f8 yansastoque <yasastoque@gmail.com> 1675275372 -0500	commit: Prueba 3
+0ba3c4f74501a59ec81d3384b7f2de286fbfa6f8 635781121769dce644b076d222093f4131f09fa0 yansastoque <yasastoque@gmail.com> 1675275616 -0500	commit: Prueba dos archivos
+635781121769dce644b076d222093f4131f09fa0 f7fe10e4940078ad4273d34e0044b9d46bbb94a3 yansastoque <yasastoque@gmail.com> 1675275944 -0500	commit: Prueba 4
+f7fe10e4940078ad4273d34e0044b9d46bbb94a3 d7952d12bb02839c040aa03e8814c67166d19371 yansastoque <yasastoque@gmail.com> 1675276393 -0500	commit: Borre todo para probar

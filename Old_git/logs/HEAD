@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 6e27086f5df9e9a815e80bd6e9fcbd578cbf49af Yan_Sastoque <Yasastoque@gmail.com> 1675277521 -0500	commit (initial): Estado inicial del repositorio
+6e27086f5df9e9a815e80bd6e9fcbd578cbf49af 514126d69e38b341be26e1d4b738213c65370028 Yan_Sastoque <Yasastoque@gmail.com> 1675967718 -0500	commit: Crear archivo de prueba
+514126d69e38b341be26e1d4b738213c65370028 bc2eb88820b582d0be46e5a5328c7b87bf1a11ff Yan_Sastoque <Yasastoque@gmail.com> 1675968489 -0500	commit: Se adiciona algo al archivo de prueba
+bc2eb88820b582d0be46e5a5328c7b87bf1a11ff 3a2bcae2f4fdd99e4fd8c531e55b0e86eff78505 Yan_Sastoque <Yasastoque@gmail.com> 1675970603 -0500	commit: Aqui se creo el archivo para ver la diferencia entre commits
+3a2bcae2f4fdd99e4fd8c531e55b0e86eff78505 e3c5bd6f14546888c0a28554120add097e030694 Yan_Sastoque <Yasastoque@gmail.com> 1675971731 -0500	commit: Se cambio el nombre del archivo diff
+e3c5bd6f14546888c0a28554120add097e030694 c8d47b625f777301fc72825ae4ef60770269d894 Yan_Sastoque <Yasastoque@gmail.com> 1676398852 -0500	commit: se agregó una llinea
+c8d47b625f777301fc72825ae4ef60770269d894 3835cdd53a7c5b2e7b07045486d4abcf55927f30 Yan_Sastoque <Yasastoque@gmail.com> 1676398914 -0500	commit (amend): Se agregaron dos lineas
+3835cdd53a7c5b2e7b07045486d4abcf55927f30 e3c5bd6f14546888c0a28554120add097e030694 Yan_Sastoque <Yasastoque@gmail.com> 1676399155 -0500	reset: moving to HEAD^
+e3c5bd6f14546888c0a28554120add097e030694 75e1c2474629abec3b433203dcf83e0f9c1d2a71 Yan_Sastoque <Yasastoque@gmail.com> 1676399205 -0500	commit: Segunda vez que cargo el commit
+75e1c2474629abec3b433203dcf83e0f9c1d2a71 e3c5bd6f14546888c0a28554120add097e030694 Yan_Sastoque <Yasastoque@gmail.com> 1676399841 -0500	reset: moving to e3c5bd6
+e3c5bd6f14546888c0a28554120add097e030694 062e2e19271a52cc76014b8792fc0a94dc17c08c Yan_Sastoque <Yasastoque@gmail.com> 1676400640 -0500	commit: Prueba renombrada
+062e2e19271a52cc76014b8792fc0a94dc17c08c 062e2e19271a52cc76014b8792fc0a94dc17c08c Yan_Sastoque <Yasastoque@gmail.com> 1676571917 -0500	checkout: moving from master to nuevarama
+062e2e19271a52cc76014b8792fc0a94dc17c08c 49675d48a9361181d4b6ace394f3b2691078af62 Yan_Sastoque <Yasastoque@gmail.com> 1676572038 -0500	commit: Prueba de rama v1
+49675d48a9361181d4b6ace394f3b2691078af62 f4777e629635ec71bed23a33ba9bc6506e9fc016 Yan_Sastoque <Yasastoque@gmail.com> 1677175943 -0500	commit: Se hizo inicio de clase
+f4777e629635ec71bed23a33ba9bc6506e9fc016 062e2e19271a52cc76014b8792fc0a94dc17c08c Yan_Sastoque <Yasastoque@gmail.com> 1677176009 -0500	checkout: moving from nuevarama to master
+062e2e19271a52cc76014b8792fc0a94dc17c08c 062e2e19271a52cc76014b8792fc0a94dc17c08c Yan_Sastoque <Yasastoque@gmail.com> 1677176152 -0500	checkout: moving from master to nuevosParrafos
+062e2e19271a52cc76014b8792fc0a94dc17c08c c03793117e1d8ce82f87ed5252b6934baddaba7f Yan_Sastoque <Yasastoque@gmail.com> 1677176245 -0500	commit: Se añaden nuevos parrafos
+c03793117e1d8ce82f87ed5252b6934baddaba7f 28ffe0c11024b84e911dc4716a93463fb55465b0 Yan_Sastoque <Yasastoque@gmail.com> 1677176435 -0500	commit: Se corrige el ultimo cambios
+28ffe0c11024b84e911dc4716a93463fb55465b0 062e2e19271a52cc76014b8792fc0a94dc17c08c Yan_Sastoque <Yasastoque@gmail.com> 1677176486 -0500	checkout: moving from nuevosParrafos to master
+062e2e19271a52cc76014b8792fc0a94dc17c08c 28ffe0c11024b84e911dc4716a93463fb55465b0 Yan_Sastoque <Yasastoque@gmail.com> 1677176505 -0500	merge nuevosParrafos: Fast-forward
+28ffe0c11024b84e911dc4716a93463fb55465b0 28ffe0c11024b84e911dc4716a93463fb55465b0 Yan_Sastoque <Yasastoque@gmail.com> 1677176644 -0500	checkout: moving from master to nuevosEstilos
+28ffe0c11024b84e911dc4716a93463fb55465b0 fb97f18be9f0162caec61fb4aab7b61941953de1 Yan_Sastoque <Yasastoque@gmail.com> 1677176776 -0500	commit: Se aplican nuevos estilos a la Web
+fb97f18be9f0162caec61fb4aab7b61941953de1 28ffe0c11024b84e911dc4716a93463fb55465b0 Yan_Sastoque <Yasastoque@gmail.com> 1677176786 -0500	checkout: moving from nuevosEstilos to master
+28ffe0c11024b84e911dc4716a93463fb55465b0 28ffe0c11024b84e911dc4716a93463fb55465b0 Yan_Sastoque <Yasastoque@gmail.com> 1677176824 -0500	checkout: moving from master to master
+28ffe0c11024b84e911dc4716a93463fb55465b0 9200e6700664fa2dc31310a62247ebc4fe86ad41 Yan_Sastoque <Yasastoque@gmail.com> 1677176852 -0500	commit: Se reduce la cantidad de parrafos
